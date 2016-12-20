@@ -1,0 +1,45 @@
+.heading {
+	background-color: #ffd11a;
+	position: relative;
+}
+
+h1 {
+	line-height: 1;
+  	margin-bottom: 0;
+  	margin-left: 500px;
+}
+
+p {
+  margin-top: 0;
+  margin-left: 500px;	
+}
+
+.row {
+    text-align: center;
+}
+
+.row img {
+	width: 300px; 
+    height: auto;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.col-4 {
+	border: 1px grey;
+}
+
+.subtitle {
+  padding: 20px;
+  text-align: left;
+}
+
+.subtitle h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.subtitle p {
+  margin: 0;
+}
